@@ -13,7 +13,7 @@
 -  **Organisation :** [Technojam](https://github.com/technojam), [Developers Student Club at Galgotias University](https://github.com/DSC-Galgotias)
 
 <p align="center">
-  <img alt="Isha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Isha2103&show_icons=true&theme=radical">
+  <img alt="Arda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Isha2103&show_icons=true&theme=radical">
 </p>
 
 <p align="center">
@@ -21,6 +21,5 @@
 </p>
 
 -----
-Credits: [Isha Gupta](https://github.com/Isha2103)
 
 Last Edited on: 25/11/2020
